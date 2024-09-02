@@ -3,27 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centemeter to Feet</title>
+    <title>Centimeter to Feet</title>
 
+<link rel="stylesheet" href="myFormat.css">
 </head>
 <body>
 
-    <h1>Centemeter to Feet</h1>
+    <h1>Centimeter to Feet</h1>
 
     <form>
-        <label for="Centemeter">Centemeter:</label><br>
-        <input type="number" id="Centemeter" name="Centemeter"><br>
-        <label for="Feet">Feet:</label><br>
+        <label for="Centimeter">Centimeter:</label>
+        <input type="number" id="Centimeter" name="Centimeter"><br>
+        <label for="Feet">Feet:</label>
         <input type="number" id="Feet" name="Feet" readonly><br>
         <button type="button" value="Compute" id="btnCompute">Compute</button>
     </form>
 
-    <script src="Centemeter to Feet.js"></script>
     <script>
         function compute() {
-            let Centemeter, Feet;
-            Centemeter = parseFloat(document.getElementById("Centemeter").value);
-            Feet = Centemeter * 0.0328084;
+            let Centimeter, Feet;
+            Centimeter = parseFloat(document.getElementById("Centimeter").value);
+            Feet = Centimeter * 0.0328084;
             document.getElementById("Feet").value = Feet.toFixed(4);
         }
         document.getElementById("btnCompute").addEventListener("click", compute);

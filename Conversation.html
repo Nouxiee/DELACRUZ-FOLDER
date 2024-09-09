@@ -15,19 +15,11 @@
         <label for="Centimeter">Centimeter:</label>
         <input type="number" id="Centimeter" name="Centimeter"><br>
         <label for="Feet">Feet:</label>
-        <input type="number" id="Feet" name="Feet" readonly><br>
+        <input type="number" id="Feet" name="Feet" disabled="true"><br>
         <button type="button" value="Compute" id="btnCompute">Compute</button>
+        <button type="reset" value="Clear" id="btnClear">Clear</button>
     </form>
 
     <script src="Centimeter to Feet.js"></script>
-    <script>
-        function compute() {
-            let Centimeter, Feet;
-            Centimeter = parseFloat(document.getElementById("Centimeter").value);
-            Feet = Centimeter * 0.0328084;
-            document.getElementById("Feet").value = Feet.toFixed(4);
-        }
-        document.getElementById("btnCompute").addEventListener("click", compute);
-    </script>
 </body>
 </html>

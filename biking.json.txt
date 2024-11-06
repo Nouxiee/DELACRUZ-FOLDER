@@ -1,0 +1,98 @@
+{"Biking":[{
+
+    "ProductName": "JRP Swingarm",
+  
+    "ProductDescription": " Size:56cm Color: Silver Applicable model:Wave/XRM 100/125",
+  
+    "ProductImage": "swingarm.jpeg",
+  
+    "ProductPrice":"₱ 100,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "JRP Rear Shock",
+  
+    "ProductDescription": " The forged alloy top and bottom clamps ensure a solid connection to the saddle without adding excessive weight. ",
+  
+    "ProductImage": "shock.jpeg",
+  
+    "ProductPrice": "₱  10,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "JRP Lighten Front Shock",
+  
+    "ProductDescription": " A Front Shock typically consists of two blades which are joined at the top by a fork crown.  ",
+  
+    "ProductImage": "frontshock.jpeg",
+  
+    "ProductPrice": "₱ 20,00"
+  
+  },
+  
+  {
+  
+    "ProductName": "JRP Shifter",
+  
+    "ProductDescription": " Tires have tread compounds that specialize in grip and tread patterns with large blocky tread for maximum traction. ",
+  
+    "ProductImage": "shifter.jpeg",
+  
+    "ProductPrice": "₱ 5,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "JRP Caliper",
+  
+    "ProductDescription": " Handlebar provides more steering control and is favoured for gravel riding. ",
+  
+    "ProductImage": "caliper.jpeg",
+  
+    "ProductPrice": "₱ 3,000"
+  
+  },
+  
+  { 
+  
+    "ProductName": "JRP Flatseat",
+  
+    "ProductDescription": " Provides more stability on uneven ground and prevents muscles from tensing up. ",
+  
+    "ProductImage": "flatseat.jpeg",
+  
+    "ProductPrice": "₱ 1,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "JRP Break hose",
+  
+    "ProductDescription": " Act as a rotating crank, part of the crankset, allowing the rider to apply force to the pedal transferred via the crank arm to the forward gears to drive the bicycle chain. ",
+  
+    "ProductImage": "breakhose.jpeg",
+  
+    "ProductPrice": "₱ 4,000"
+  
+  },
+  
+  
+  {
+  
+    "ProductName": "JRP Discbreak",
+  
+    "ProductDescription": " A device for slowing or stopping a vehicle or other moving mechanism by the absorption or transfer of the energy of momentum, usually by means of friction. ",
+  
+    "ProductImage": "discbreak.jpeg",
+  
+    "ProductPrice":"₱ 1,000"
+  
+  }
+  
+    ]}
